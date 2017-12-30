@@ -1,2 +1,7 @@
 Creating a new branch is quick.
-somrthing added by master
+<<<<<<< HEAD
+=======
+first change in dev
+second change in dev
+
+>>>>>>> dev
