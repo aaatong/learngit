@@ -1,2 +1,3 @@
 lalala
 lululu
+how to view remote log without git pull
